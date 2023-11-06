@@ -2,6 +2,16 @@
 
 Exeguard is a versatile software solution designed to manage execution on Linux systems efficiently.
 
+## Joining the core team
+Do you have any of these skills?
+* Linux kernel module development
+* Rust development
+* C development
+* Go development
+* Frontend development
+
+Contact me at [Tutanota](mailto:ben.mcavoy@tutanota.com) or through GitHub issues!
+
 ## Modules
 
 * **Kernel Module:** Handles low-level execution management, ensuring security and efficiency.
